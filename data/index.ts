@@ -76,7 +76,7 @@ export const navItems = [
       des: "Join the Dr.eam Journal Network, a dynamic platform for our university chapter. Engage with peers, share insights, and stay updated with the latest news and events.",
       img: "/p1.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      // link: "https://github.com/adrianhajdin?tab=repositories",
+      link: "https://github.com/srp8",
     },
     {
       id: 2,
@@ -84,7 +84,7 @@ export const navItems = [
       des: "Stay connected and organized with Volunteer Connect. Enjoy easy-to-use text, voice, and video features to enhance collaboration and community engagement.",
       img: "/p2.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      // link: "https://github.com/adrianhajdin/zoom-clone",
+      link: "https://github.com/srp8",
     },
     {
       id: 3,
@@ -92,7 +92,7 @@ export const navItems = [
       des: "Streamline the academic experience for professors and students alike. InnovAItive enhances the learning experience by ensuring clarity, organization, and accessibility of lecture materials, all in one convenient platform.",
       img: "/p3.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      // link: "https://github.com/adrianhajdin/ai_saas_app",
+      link: "https://github.com/srp8",
     },
     {
       id: 4,
@@ -100,7 +100,7 @@ export const navItems = [
       des: "Transform your dental practice with Servicue, a comprehensive platform offering cutting-edge web design, CRM tools, and personalized chatbots. Enhance patient engagement, streamline operations, and elevate your practice to new heights with our tailored services.",
       img: "/p4.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      // link: "https://github.com/adrianhajdin/iphone",
+      link: "https://github.com/srp8",
     },
   ];
   
